@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
-django-templates = "*"
 django-templated-mail = "*"
+djangorestframework-xml = "*"
 
 [dev-packages]
 
